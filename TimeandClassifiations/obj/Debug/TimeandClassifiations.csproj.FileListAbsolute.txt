@@ -1,0 +1,6 @@
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TimeandClassifiations\TimeandClassifiations\bin\Debug\TimeandClassifiations.exe.config
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TimeandClassifiations\TimeandClassifiations\obj\Debug\TimeandClassifiations.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TimeandClassifiations\TimeandClassifiations\bin\Debug\TimeandClassifiations.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TimeandClassifiations\TimeandClassifiations\bin\Debug\TimeandClassifiations.pdb
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TimeandClassifiations\TimeandClassifiations\obj\Debug\TimeandClassifiations.exe
+C:\Users\Mark\Documents\Visual Studio 2013\Projects\TimeandClassifiations\TimeandClassifiations\obj\Debug\TimeandClassifiations.pdb
